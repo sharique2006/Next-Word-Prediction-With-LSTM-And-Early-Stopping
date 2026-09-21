@@ -1,0 +1,10 @@
+streamlit==1.40.0
+tensorflow==2.15.0
+protobuf==4.25.3
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+scikeras
+nltk
